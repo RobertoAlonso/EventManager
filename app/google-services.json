@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958856204674",
+    "firebase_url": "https://ever-4149.firebaseio.com",
+    "project_id": "ever-4149",
+    "storage_bucket": "ever-4149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958856204674:android:d9e043a18eab2055",
+        "android_client_info": {
+          "package_name": "com.robertoalonso.eventmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958856204674-ut8qpcue1jcf5ido83kj617c95du3867.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_t6szgj0DkT46bmuo-Ov8Fqnd_5pAeSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958856204674-ut8qpcue1jcf5ido83kj617c95du3867.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
